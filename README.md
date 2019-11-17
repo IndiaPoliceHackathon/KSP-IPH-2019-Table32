@@ -16,4 +16,4 @@ TRAFFIC POLICE DEPT
 *Scans for vehicle number from a given picture provides owner data, files complaint against that vehicle, notifies officers at other        checkposts about 
 *Helps for road clearance for the passing of emergency vehicles
 
-List of Tools:Adobe XD,AndroidStudio,pycharm,Firebase.
+List of Tools:Adobe XD 24.2.22.8,AndroidStudio,pycharm,Firebase.
